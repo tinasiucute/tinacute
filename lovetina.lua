@@ -1,7 +1,4 @@
--- discord.gg/tboyroblox
-
-
-shared.LoaderTitle = "Đăng Ký Kênh TinaCute";
+shared.LoaderTitle = "iu tina vaiz";
 shared.LoaderKeyFrames = {
     [1] = {
         1,
